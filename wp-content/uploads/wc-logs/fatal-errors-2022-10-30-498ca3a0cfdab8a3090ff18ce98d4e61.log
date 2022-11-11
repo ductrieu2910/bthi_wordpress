@@ -1,0 +1,16 @@
+2022-10-30T00:02:25+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\BTH_wordpress\wp-content\plugins\google-listings-and-ads\src\Infrastructure\Registerable.php on line 20
+
+2022-10-30T00:02:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\BTH_wordpress\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-identity-crisis\src\class-identity-crisis.php on line 1290
+
+2022-10-30T00:02:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\BTH_wordpress\wp-content\plugins\contact-form-7\modules\acceptance.php on line 8
+
+2022-10-30T00:02:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\BTH_wordpress\wp-content\plugins\contact-form-7\modules\date.php on line 9
+
+2022-10-30T00:02:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\BTH_wordpress\wp-content\plugins\facebook-for-woocommerce\vendor\composer\platform_check.php on line 5
+
+2022-10-30T00:03:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\BTH_wordpress\wp-includes\functions.php on line 4542
+
+2022-10-30T01:12:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\BTH_wordpress\wp-admin\includes\template.php on line 12
+
+2022-10-30T09:47:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\BTH_wordpress\wp-content\themes\flatsome\inc\extensions\flatsome-live-search\flatsome-live-search.php on line 10
+
